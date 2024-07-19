@@ -1,0 +1,1548 @@
+# -*- coding: utf-8; -*-
+# ------------------------------------------------------------------
+# Time-stamp: <coachingSystemique.org 2023-08-12 16:13:17 CEST>
+# ------------------------------------------------------------------
+#+STARTUP: show2levels
+# ------------------------------------------------------------------
+
+* Todo                                                             :noexport:
+   1. Faire un tableau récap des situations où appliquer des stratégies
+   2. relire toutes mes notes prises lors de la formation et les ajouter en complément 
+
+* Configuration                                                    :noexport:
+#+options: ':nil *:t -:t ::t <:active H:3 \n:nil ^:t arch:headline
+#+options: author:t broken-links:nil c:nil creator:nil
+#+options: d:(not "LOGBOOK") date:t e:t email:nil f:t inline:t num:nil
+#+options: p:nil pri:nil prop:nil stat:t tags:t tasks:t tex:t
+#+options: timestamp:t title:t toc:2 todo:t |:t
+#+title:  Coaching Systémique - Fiches de synthèse
+# #+subtitle: Alain Cardon
+#+author: Jean-Luc Koning
+#+email: jean-luc.koning@esisar.grenoble-inp.fr
+#+language: fr
+#+select_tags: export
+#+exclude_tags: noexport
+#+creator: Emacs 28.0.50 (Org mode 9.5.4)
+
+#+SETUPFILE: ~/.emacs.d/org-css/org-html-themes-master/org/theme-readtheorg-local.setup
+
+* Introduction
+
+Ce document a pour objectif de récapituler les éléments principaux du
+coaching systémique (tel que présenté par Alain Cardon).
+
+Mon intention initiale est de constituer un pense-bête pour le coach
+systémique débutant que je suis.
+
+Ce document est encore dans un état embryonnaire.  Les fiches avec le
+sigle ⚡ restent à compléter.
+
+Toutes les remarques de mes collègues sont les bienvenues.
+
+Matière issue de
+ 1. la bibliographie d'Alain Cardon
+    - livre : Questions Puissantes & Coaching Systémique
+    - livre : Art véritable du Maître Coach, InterÉdition
+ 2. mes notes prises lors de la formation, automne 2021
+
+* Les partages du coach (/à compléter/) ⚡
+** Écoute Active : Méta-compétences
+*** A - Appréciation ("je")
+
+ - J'aime beaucoup ta façon d'avancer
+ - J'adore ta façon de chercher
+ - Merci pour ta confiance
+   
+*** B - Demande de permission ("Toc toc.. Oui")
+
+ - Puis-je t'interrompre ?
+ - Puis-je partager une synthèse rapide ?
+ - Est-ce que je peux te poser une question ?
+
+*** C - Position basse - humilité, modestie, respect
+
+ - Je ne sais pas...
+ - Je ne suis pas sûr...
+ - C'est juste une idée...
+ - C'est peut-être pas les bons mots...
+ - C'est peut-être pas le bon moment...
+
+** Synthèse courte de processus
+
+ - En gros, tu comprends bien la situation...  Alors ?
+ - Tu as deux options...  Alors ?
+ - Tu as pris une décision... Alors ?
+
+** Partage Éthique
+Partager un souci, une difficulté, un problème perso
+
+ a. J'ai un enjeu très similaire
+ b. DÉTAIL PERSO AUTHENTIQUE :: Moi aussi avec mon fils, mon patron, dans ma vie, je...
+ c. ACCORD :: Alors, je peux t'accompagner SI tu me dis quand tu
+    perçois que je m'implique, je projette, je prends trop de place,
+    je sors de ma position de coach.  Ok ?
+ d. Merci...  Alors ?
+ 
+** Partage de Ressenti
+
+*** Liste des ressentis
+
+Chez le coach : plaque photographique.  Système coach-client
+
+ - Sensation :: corps : coup, dos, tête, jambes
+ - Émotion :: joie, tristesse, colère, peur
+ - Sentiment :: Stress, impatience, paix-zen, confusion
+ - Événement partagé :: retard, confusion, interruption
+ - Erreur :: je pousse, passif, interrompt, projette,...
+
+*** Partage de ressenti
+
+ a) Je trouve que tu avances bien
+ b) détail, authentique, sens :: De mon côté, je ressens... ou je fais...  
+ c) Ne t'inquiète pas, c'est pas une demande, je m'en occupe
+ d) Je me demande juste quel sens ça peut avoir dans ta situation.
+ e) Mais peut-être pas, juste une idée...
+ f) Merci de m'avoir écouté...  Alors ?
+
+** Confrontation : léger paradoxe ou inconsistance
+
+ a) Est-ce que tu me permets de partager quelque chose ?
+    - je crois percevoir une incohérence.
+ b) Hier,
+    - tu as dit != tu as dit
+    - tu as dit != tu as fait
+    - tu as fait != tu as dis
+ c) Personnellement, je ne sais pas quoi croire dans ce que tu dis
+ d) Ici, ce n'est pas grave.
+    - Si tu le fais ailleurs, ça pourrait avoir des incidences
+ e) Sois tu fais ça..., sois tu ne le fais pas.
+    - La seule chose qui m'importe, c'est la cohérence
+ f) Merci... Alors
+
+** Partage d'Erreurs ⚡
+* Les stratégies puissantes
+** Cadre de référence de base
+
+Les stratégies de questionnement puissantes doivent toutes respecter
+le cadre de référence de base du coaching.
+
+ - Elles sont positives et constructives.
+ - Elles sont tournées vers l'avenir et résolument axées vers la réalisation de solutions.
+ - Elles reposent sur le principe que les clients sont intelligents.
+   actifs, engagés et puissants.
+ - Elles sont orientées vers l'action.
+ - Elles visent à obtenir des résultats mesurables afin d'assurer le
+   retour sur investissement que le prescripteur, sponsor ou payeur du
+   coaching souhaite obtenir.   
+
+** Étapes d'un questionnement puissant
+# page 25
+# compléter avec les pages 32-33
+# cf. début page 106
+
+*** Étape 1 - Construction préliminaire ou introductive
+
+**** Descriptif
+
+Objectif : garantir une réelle attention et concentration du client.
+
+**** Exemple
+
+ - Êtes-vous prêt à envisager une perspective différente ?
+ - Pouvez-vous être mis au défi dans votre processus ?
+ - Puis-je vous interrompre ?
+ - Puis-je apporter quelque chose dans votre réflexion ?
+ - Puis-je vous poser une question plutôt créative pour vous permettre
+   d'avancer dans votre recherche ?
+
+*** Étape 2 - Question puissante
+
+**** Descriptif
+
+Inviter le client à imaginer et à décrire une situation précise,
+fictive ou hypothétique dans laquelle leur situation, enjeu ou
+ambition est totalement résolu.
+
+Situation hypothétique où le résultat souhaité est parfaitement
+atteint.
+
+Objectif : faire entrer le client dans un environnement totalement
+différent à partir duquel il pourra ensuite percevoir comment son
+enjeu, comment la solution à son problème ou comment son ambition est
+totalement réalisée, cad rendue réelle.
+
+Approche centrée solution : un tel déplacement instantané du client
+dans sa situation résolue lui permettra de changer de manière
+significative sa perspective sur l'objet de son travail.
+
+**** Exemple
+
+ - Supposez que vous ayez une baguette magique... et que vous puissiez
+   immédiatement transformer votre situation... pour qu'elle soit
+   exactement ce que vous voulez qu'elle soit.
+
+   C'est le résultat que vous rêvez vraiment d'accomplir.
+
+   Pouvez-vous décrire ce résultat final ?
+
+ - Si vous aviez une baguette magique qui pouvait transformer la
+   situation en ce que vous voulez vraiment comme résultat, que
+   pourriez-vous faire demain pour y arriver
+
+ - Si vous aviez une baguette magique vraiment puissante et que vous
+   pouvez immédiatement transformer votre situation en celle que vous
+   préférez vraiment : un résultat que vous n'osez presque pas vous
+   formuler, pouvez-vous décrire cette situation finale, totalement
+   satisfaisante pour toutes les personnes concernées ?
+
+ - Si vous êtes un enfant de 6 ans vraiment authentique et créatif,
+   comment percevez-vous cette situation, totalement résolue à votre
+   goût ?
+
+*** Étape 3 - Questions de précision pratiques ou instrumentales
+
+**** Descriptif
+
+Faire décrire les détails relatifs à la nouvelle perspective orientée
+vers le résultat.
+
+But de cette séquence : obtenir description complète et détaillée du
+résultat final souhaité.
+
+Objectif : accompagner les clients à visualiser clairement leur
+solution dans ses moindres détails opérationnels
+
+**** Exemple
+
+ - Où êtes-vous maintenant ?
+ - Qui vous entoure et vous soutient vraiment, qui n'était pas là dans
+   le passé ?
+ - Qui est apparu comme un élément central dans votre réussite ?
+ - Qui n'est plus là et est passé à autre chose ?   Qui d'autre ?
+ - Quels sont les produits ou services totalement nouveaux que vous
+   n'aviez jamais envisagés auparavant ?  Quoi d'autre ?
+ - Quels sont les indicateurs clés de réussite que vous utilisez
+   actuellement pour mesurer votre succès ?  Quoi d'autre ?
+ - En quoi votre vie personnelle et professionnelle est-elle beaucoup
+   plus équilibrée ?
+ - Que faites-vous de différent ?  Quoi d'autre ?
+ - Qu'est-ce qui a changé en vous ?
+ - Quelles sont les nouvelles activités qui se sont révélées comme
+   vraiment importantes pour vous ?  Quoi d'autre ?
+ - Comment la perception que votre environnement a de vous a-t-elle
+   changé ?  Quoi d'autre ?
+
+Questions génériques
+
+ - Qui est là ?
+ - Qui n'est plus présent ?
+ - Où vous trouvez-vous ?
+ - Comment votre environnement a t-il changé ?
+ - Que faites vous de différent ?
+ - Qui vous soutient le plus ?
+ - Quoi d'autre ?
+
+*** Étape 4 - Plan d'action concret, ancré dans la durée
+
+**** Descriptif
+Revenir à l'instant présent, dans la réalité actuelle.
+
+Pour se concentrer sur les moyens à mobiliser et le actions à entreprendre afin de concrétiser la nouvelle perspective.
+
+Toutes les actions d'un plan d'action, via des questions
+opérationnelles ou instrumentales :
+ - qui,
+ - quoi,
+ - quand,
+ - où,
+ - comment,
+ - etc.
+
+**** Exemple
+
+ - En revenant ici et maintenant, au temps présent : Qu'avez-vous déjà
+   commencé, que vous pouvez renforcer pour vous aider à avancer dans
+   cette direction ?
+ - Quels sont les actions rapides que vous pouvez immédiatement mettre
+   en oeuvre pour atteindre ce que vous venez de décrire ?
+ - Comment pouvez-vous obtenir immédiatement le soutien d'autres
+   personnes, en les faisant participer immédiatement à mettre en
+   oeuvre cette vision ?
+ - Comment allez-vous mesurer ou suivre et informer tout le monde de
+   votre progression hebdomadaire ?
+ - Quels sont les moyens disponibles que vous pouvez immédiatement
+   redistribuer ou réaffecter pour soutenir vos priorités déclarées ?
+ - Si vous commencez à avancer sur plusieurs fronts simultanément,
+   quelles sont toutes les actions que vous pouvez immédiatement
+   activer ?
+
+Questions génériques
+
+ - Maintenant, pour en revenir à nous aujourd'hui, que pouvez-vous
+   faire, dès demain, pour obtenir le résultat clair et détaillé que
+   vous avez si bien décrit ?
+ - Que pouvez-vous faire demain compte-tenu de cette perception très
+   claire de ce que vous voulez vraiment accomplir ?
+
+   
+
+** Tableau des différentes questions ⚡
+
+| N° | Question puissante                   | Contexte                                                                                                                                                                    |
+|----+--------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|    |                                      | <70>                                                                                                                                                                        |
+| [[1. Magique][1]]  | Magique                              | xxx                                                                                                                                                                         |
+| [[2. Idéal & Perfection][2]]  | Idéal & Perfection                   |                                                                                                                                                                             |
+| [[3. ⚡ Projection dans le futur][3]]  | Projection dans le futur             |                                                                                                                                                                             |
+| [[4. ⚡ Base Zéro][4]]  | Base zéro                            | Le client croit qu'il est irrémédiablement coincé dans un système relationnel ou professionnel qui a mal démarré.                                                           |
+| [[5. ⚡ Projection "Ici & Maintenant"][5]]  | Projection "Ici & Maintenant"        | Client ayant des difficultés à exprimer un problème à un tiers dans son environnement personnel ou professionnel                                                            |
+| [[6. ⚡Inversion Intérieur-Extérieur / Dedans-Dehors][6]]  | Inversion Intérieur-Extérieur        |                                                                                                                                                                             |
+| [[7. ⚡ Changement de contexte Pro-Perso][7]]  | Changement de contexte Pro-Perso     |                                                                                                                                                                             |
+| [[8. ⚡ Mobilité spatio-volumique][8]]  | Mobilité spatio-volumique            | Pour le client qui semble physiquement coincé ou paralysé dans une situation dont il a l'impression qu'il n'y a pas d'issue possible                                        |
+| [[9. Expérience passée][9]]  | Expérience passée                    | En cas de stress intense, de confusion ou de désespoir, le client se sent parfois complètement désemparé voire paralysé, oubliant jusqu'à comment utiliser ses qualités et ressources personnelles. |
+| [[10. Ressources ou Qualités][10]] | Ressources ou Qualités               | Client beaucoup trop concentré sur son enjeu ou son défi pour y voir clair.  Client enfermé dans une réflexion sans issue.                                                  |
+| [[11. Ordre & priorités][11]] | Ordre & priorités                    |                                                                                                                                                                             |
+| [[12. Pour & Contre][12]] | Pour & Contre                        |                                                                                                                                                                             |
+| [[13. Soit - Soit][13]] | Soit - Soit                          |                                                                                                                                                                             |
+| [[14. Cartographie & Réseau][14]] | Cartographie & Réseau                |                                                                                                                                                                             |
+| [[15. Motivation Essentielle][15]] | Motivation Essentielle               |                                                                                                                                                                             |
+| [[16. Pouvoir intrinsèque des émotions][16]] | Pouvoir intrinsèque des émotions     |                                                                                                                                                                             |
+| [[17. Préoccupations profondes][17]] | Préoccupations profondes             |                                                                                                                                                                             |
+| [[18. Métaphores][18]] | Métaphores                           |                                                                                                                                                                             |
+| [[19. Questions poétiques][19]] | Questions poétiques                  |                                                                                                                                                                             |
+| [[20. Stratégie des petits pas][20]] | Stratégie des petits pas             |                                                                                                                                                                             |
+| [[21. Scénario du pire, scénario catastrophe][21]] | Scénario du pire                     | Quand tout semble aller mal.   Le client a l'impression d'avoir touché le fond.  Situation décrite intenable.                                                               |
+| [[22. Maillon faible][22]] | Maillon faible                       | le client a presque terminé une séquence de coaching et a élaboré ce qui semble être un plan d'action solide                                                                |
+| [[23. Inversion des affirmations][23]] | Inversion des affirmations           | Avec un client qui manifeste une pensée plutôt linéaire, binaire, logique ou cartésienne                                                                                    |
+| [[24. Questions paradoxales][24]] | Questions paradoxales                | Avec un client qui manifeste une pensée plutôt linéaire, binaire, logique ou cartésienne                                                                                    |
+| [[25. Prescription des symptômes apparents][25]] | Prescription des symptômes apparents | Le client semble passif, lent ou en manque d'énergie vitale.   Lorsque le coach ressent l'envie de porter la responsabilité d'un client.                                    |
+| [[26. Éliminer l'enjeu apparent][26]] | Éliminer l'enjeu apparent            | Le client perd du temps sur des enjeux superficiels ou temporaires.  L'aider à se concentrer sur des objectifs plus fondamentaux ou des motivations plus profondes          |
+| [[27. Questions systémiques][27]] | Questions systémiques                |                                                                                                                                                                             |
+| [[28. Triangulation][28]] | Triangulation                        |                                                                                                                                                                             |
+| [[29. Autres triangulations][29]] | Autres triangulations                |                                                                                                                                                                             |
+| [[30. Relation Coach-Client][30]] | Relation Coach-Client                |                                                                                                                                                                             |
+| [[31. Environnement partagé][31]] | Environnement partagé                |                                                                                                                                                                             |
+
+** Catégorie : Questions Hypothétiques
+# Pages 23-39
+
+*** 1. Magique
+# Page 40
+**** Catégorie
+
+Questions hypothétiques
+
+**** Description
+
+Suggère au client d'explorer sa créativité et son intuition dans un
+monde imaginaire, poétique, enfantin ou onirique
+
+**** Questions puissantes
+ - baguette magique
+
+ - Si vous avez maintenant une "génie" intérieur qui vous accorde
+   3 voeux pour immédiatement résoudre votre problème, pouvez-vous
+   tout de suite décrire le résultat final que vous avez atteint ?
+
+ - Si votre héros (modèle, gourou, etc.) préféré résout
+   instantanément, et très efficacement votre situation, à quoi
+   ressemble la situation résolue ?
+
+ - Si vous avez des super pouvoirs illimités, pour arranger
+   immédiatement les choses, pouvez-vous décrire la solution que vous
+   avez ainsi obtenue ?
+
+ - Si vous consultez en vous le vieux sorcier très compétent (bonne
+   fée, sorcière bien informée) qui est en vous, pouvez-vous détailler
+   la solution qu'il (ou elle) vous dit pouvoir immédiatement
+   accomplir ?
+
+ - Après avoir totalement changé tout ce que vous faites et qui vous
+   êtes, qu'est-ce que votre meilleur ami d'enfance dit que vous êtes
+   devenu ?
+
+ - Compte tenu de votre potentiel total, que dit votre ange gardien
+   que vous êtes vraiment, que vous pouvez vraiment faire, au plus
+   profond de vous ?
+*** 2. Idéal & Perfection
+# Pages 40-41
+
+**** Catégorie
+
+Questions hypothétiques
+
+**** Description
+
+Suggère des défis professionnels, exigeants, compétitifs, ultimes et
+axés sur les limites quantitatives du possible
+
+**** Questions puissantes
+ - Supposez que vous ayez atteint votre résultat idéal.  Il est
+   acquis.  Entre vos mains.  Pouvez-vous le décrire ?
+
+ - Supposez que vous ayez déroulé votre meilleur scénario possible,
+   pouvez-vous décrire le résultat que vous avez obtenu ?
+
+ - Si vous osez vraiment formuler maintenant vos espoirs les plus
+   profonds, quel résultat final souhaitez-vous vraiment atteindre ?
+
+ - Quel est le résultat ultime possible que vous savez intimement pouvoir atteindre ?
+
+ - Dans le meilleur des mondes possibles, pouvez-vous décrire les détails de votre résultat final ?
+
+ - Si votre situation était totalement parfaite, à quoi ressemble t-elle ?
+
+ - Dans cette situation, quel est votre meilleur résultat possible ?
+   Celui que vous n'osez même pas partager avec moi ?
+** Catégorie : Plier l'espace-temps
+#  pages 60-64
+*** 3. ⚡ Projection dans le futur
+# page 61-64
+**** Catégorie
+Plier l'Espace-Temps
+
+**** Quand utiliser cette question puissante
+**** Description
+
+Demander au client de se projeter un avenir plus ou moins lointain
+afin de visualiser et définir leur enjeux totalement résolu ou leur
+résultat complètement obtenu.
+
+Le coach doit marquer son appréciation des détails proposés par le
+client : excellent, brillant, merveilleux, Wow, j'iame ton rythme,
+j'aime la façon dont tu travailles, il me semble que tu sais vraiement
+ce que tu veux !
+
+Choisir une date de fin appropriée à l'enjeu du client :
+ - client concerné par une *réunion la semaine prochaine* : projection
+   à la sortie de la réunion ou quelques jours après.
+ - client envisage un *changement de carrière* dans les années à venir :
+   projection dans dix ans.
+
+**** Questions puissantes
+
+- Si vous vous projetez plusieurs années en avant et imaginez que
+  votre question / enjeu est totalement résolu.
+
+  Pouvez-vous le décrire ?  (Poser plusieurs questions pour vraiment
+  détailler la vision du client)
+
+- Imaginez-vous dans cinq ans lorsque tout sera exactement comme vous
+  le souhaitez.
+
+  En quoi avez-vous changé par rapport à ce que vous êtes
+  aujourd'hui ?
+
+- Imaginez que la semaine prochaine, vous sortez de cette réunion et
+  que tout le monde est totalement satisfait de son résultat.
+
+  Pouvez-vous décrire comment tout le monde dans votre environnement
+  apprécie ce résultat ?
+
+**** Questions de précision pratiques ou instrumentales
+
+Très important.  Facteur de motivation essentiel pour que le client
+puisse progresser avec plus de légèreté.
+
+ - Pouvez-vous décrire votre environnement ?
+
+ - Pouvez-vous faire l'inventaire de vos propres réussites ?
+
+ - Qui vient vous féliciter ?
+
+ - Quels ont été les participants les plus soutenants ou coopératifs ?
+
+**** Plan d'actions efficace
+
+ - Que pouvez-vous faire demain pour atteindre ce résultat
+   satisfaisant ?
+
+ - Comment pouvez vous y parvenir immédiatement ?
+
+ - Que pouvez-vous faire immédiatement pour préparer votre réunion
+   afin d'atteindre ce résultat ?
+
+*** 4. ⚡ Base Zéro
+# p.64
+
+**** Catégorie
+Plier l'Espace-Temps
+
+**** Quand utiliser cette question puissante
+
+Lorsque les clients semblent croirent qu'ils sont irrémédiablement
+coincés dans un système relationnel ou professionnel qui a mal
+démarré.
+
+Ça invite le client à considérer que les anciennes conditions
+contractuelles peuvent être renégociées et les accords initiaux
+reconsidérés.
+
+Il n'est jamais trop tard pour revenir en arrière et poser de
+meilleurs bases.
+
+**** Description
+
+Le client revient à la case départ pour reposer le problème en
+conservant la conscience et les connaissances qu'il a accumulées au
+fil du temps.
+
+Repartir à zéro pour créer un avenir différent.
+
+Refaire un contrat clair compte-tenu de ce que tu sais maintenant.
+
+Sachant tout ce que tu sais aujourd'hui, qu'inclurais-tu dans ton
+accord initial ?
+
+**** Questions puissantes
+
+ - Imaginez que vous commenciez ce projet à zéro aujourd'hui.  C'est
+   son tout début, son premier jour.  Sachant tout ce que vous savez
+   aujourd'hui, que faites-vous de totalement différemment ?
+
+ - Si vous venez de rencontrer cette personne maintenant et que vous
+   vouliez assurer une fondation totalement différente pour votre
+   relation à long terme, comment pouvez-vous la démarrer aujourd'hui
+   sur une base beaucoup plus solide.
+
+ - Si sachant tout ce que vous savez aujourd'hui, vous pouviez effacer
+   toute l'histoire de ce projet et prendre un nouveau départ, comment
+   vous y prenez-vous si c'est son premier jour ?
+
+ - Tu reviens au premier jour de la relation qui ne va pas, qu'est ce
+   que tu mets en place aujourd'hui, tout de suite ?
+
+**** Questions de précision pratiques ou instrumentales
+
+ - Magnifique !  Vous semblez savoir exactement ce qu'il faut faire !
+   Que pouvez-vous faire maintenant pour tout remettre sur les rails ?
+
+ - Super !  Vous savez exactement ce que vous voulez faire avec ce
+   partenaire !  Quelle peut être votre meilleure stratégie pour
+   rendre vos solutions acceptables pour vous tous ?
+
+ - Très bien, la situation est claire, donc qu'est-ce que tu fais demain.
+
+**** Plan d'actions efficace
+
+*** 5. ⚡ Projection "Ici & Maintenant"
+
+# Livre "Questions Puissantes et Coaching Systémique", pages 66-67
+
+**** Catégorie
+
+Plier l'Espace-Temps
+
+**** Quand utiliser cette question puissante
+
+Client ayant des difficultés à exprimer un problème à un tiers dans
+son environnement personnel ou professionnel.
+
+**** Description
+
+Le client s'adresse à une chaise vide dans l'environnement de
+coaching, comme si le tiers absent était réellement assis ici et
+maintenant.
+
+Dire "Il est là, dites-lui directement, juste pour tester les mots que
+vosu voulez utiliser avec lui.
+
+**** Questions puissantes
+ - Si cette personne était devant vous, ici et maintenant, que lui
+   diriez-vous directement ?
+
+ - À supposer qu'il soit  là, qu'est-ce que tu lui dis ?
+
+ - Tout de suite, la personne est au téléphone (en donnant un objet
+   quelconque comme faux téléphone).  Que voulez-vous lui dire ?
+
+ - La réunion/conférence que vous devez animer commence maintenant, là, tout
+   de suite !  Vous avez été présenté.  Quelle est la première chose
+   que vous dites pour commencer votre discours ?
+
+Dans le cas où on n'invite pas l'absent dans le présent :
+
+ - Qu'est-ce que vous ne savez pas lui exprimer ?
+ - Qu'est-ce que vous voulez précisément dire à cette personne ?
+ - Il me semble que vous savez exactement comment formuler ce que vous
+   voulez exprimer... Alors ?
+
+**** Questions de précision pratiques ou instrumentales
+
+ - Est-ce que tu es satisfait ?
+ - Veux-tu en modifier une partie ?
+ - Veux-tu tester ton élocution à nouveau ?
+
+**** Plan d'actions efficace
+ - Quel est le meilleur *endroit* pour s'adresser à cette tierce
+   personne ?
+ - Quel est le meilleur *moment* pour avoir cette conversation ?
+*** 6. ⚡Inversion Intérieur-Extérieur / Dedans-Dehors
+
+# page 67-69
+
+**** Catégorie
+Plier l'Espace-Temps
+
+**** Quand utiliser cette question puissante
+
+Au sein de tout système collectif tel qu'une famille ou une équipe ,
+tout ce qui est ressenti par une seule personne peut être considérée
+comme une expression du système collectif plus large.
+
+La perception extérieure est la projection personnelle de l'intérieur.
+
+À l'inverse : Proposer aux clients d'intégrer ou d'incorporer comme
+interne à eux toute perception positive qu'ils interprètent comme
+existante dans leur environnement externe
+
+**** Description
+
+Un enfant dépréssif dans une famille n'est pas dépréssif pour
+lui-même. La famille est dépréssive.  Il révèle pour les autres ce
+qu'il y a de dépressif pour la famille.
+
+Il n'y a pas de différence entre dehors et dedans.
+
+On s'en fiche si c'est vrai ou faux.  Le but est que la persone change
+de perspective.
+
+**** Questions puissantes
+
+ - Client (négatif) :: "c'est super confus pour moi, je ne vois pas de solution" (décrit comme interne)
+
+ - Coach :: "si la confusion n'était pas en toi et qu'elle était dehors, qu'est-ce que tu vois clair".
+
+À l'inverse
+
+ - Coach ::  Tu décris un lieu dehors comme si tu y étais.  donc,
+   qu'est-ce qu'il y a en toi.
+
+Suggérer aux clients d'externaliser tout sentiment négatif auquel ils
+s'identifient ou qu'ils perçoivent comme étant en eux.
+
+ a. Vous dites que vous êtes totalement confus dans certaines
+    séquences de réunion.  Maintenant, imaginez que vous êtes en fait
+    très clair sur la confusion qui est dans la réunion, ce qui n'est
+    pas clair est en fait dans votre environnement.
+
+    Que percevez-vous clairement du manque de clarté et de la
+    confusion des autres ?
+
+**** Questions de précision pratiques ou instrumentales
+
+Questions instrumentales très pratiques sur chaque détail qui prête
+à confusion dans les commentaires et les comportements des autres, en
+réunion et ailleurs
+
+**** Plan d'actions efficace
+
+Compte tenu de votre lucidité sur les discours et comportements confus
+des uns et des autres en réunion et dans l'environnement plus général,
+que voulez-vous dire ou faire à partir de maintenant, chaque fois que
+vous percevez leur confusion.
+
+**** Commentaire
+
+Projection = perception.
+
+Perception en communication : ça t'appartient, tu le reprends.
+
+Au cours d'une réunion où une personne se dit confuse et demande des
+explications aux autres membre, le résultat peut conduire au chaos.
+
+Les explications soit-disant clarifiantes qui suivent révèlent souvent
+que de nombreux autres membres de la réunion sont fondamentalement en
+désaccord sur ce qu'ils font.
+
+Par conséquent, ils sont tous relativement confus quant au véritable
+sujet ou enjeu de la discussion.
+
+*** 7. ⚡ Changement de contexte Pro-Perso
+
+# pages 69-73
+
+**** Catégorie
+Plier l'Espace-Temps
+
+**** Quand utiliser cette question puissante
+
+Habitudes comportementales reproduites quel que soit l'environnement
+quotidien.
+
+Proposer aux clients d'envisager comment ils aborderaient leur enjeu
+s'il se produisaient dans n'importe quel autre de leurs environnements
+ou occupations habituels.
+
+**** Description
+Garder la même relation systémique :
+
+ - employé ou subordonné au travail = fils dans la famille à la maison
+ - patron au travail = parent dans la famille
+ - partenaire professionnel = conjoint familial (collaborateur au même niveau)
+
+Contexte équipe sport, comparaison  métaphore hotelier-hopital.
+
+Se servir de tout ce qui passe pour créer du changement.
+
+**** Questions puissantes
+ - Et si cette situation ne se produit pas dans votre bureau avec un
+   employé, mais à la maison avec votre fils ainé, comment y faites
+   vous face de façon résolutoire ?
+
+ - S'il ne s'agit pas d'un problème financier personnel, mais d'un
+   problème financier d'entreprise ; comment le résolvez-vous de façon
+   efficace ?
+
+ - Si cette personne n'est pas un collègue de travail de longue date
+   mais l'un de vos meilleurs amis personnels, comment lui
+   communiquez-vous votre souci pour qu'il en tienne compte ?
+
+ - Si, plutôt que dans votre environnement de travail, c'est dans
+   votre équipe sportive que cela se passe, quelle est la solution
+   collective qui vous semble la plus efficace pour vous tous ?
+
+**** Questions de précision pratiques ou instrumentales
+ - Si cet employé difficile était l'équivalent de votre fils à la
+   maison, que devez-vous faire pour améliorer réallement votre
+   relation au travail ?
+ - Une équipe hospitalière doit réfléchir à la manière dont elle
+   résoudrait le problème d'un client.
+   Comment ferait-elle s'il s'agissait
+   + d'un resort ou d'un club de vacances,
+   + d'un complexe hôtelier citadin,
+   + d'une prison
+   + d'un asile ?
+   
+**** Plan d'actions efficace
+
+
+*** 8. ⚡ Mobilité spatio-volumique
+# page 73-75
+**** Catégorie
+Plier l'Espace-Temps
+
+**** Quand utiliser cette question puissante
+
+Particulièrement utile pour les clients qui semblent physiquement
+coincés ou paralysés dans une situation dont ils ont l'impression
+qu'il n'y a pas d'issue possible.
+
+**** Description
+
+- Le client se déplace physiquement de sa position afin de considérer
+  les problèmes depuis un endroit, un angle topographique ou un point
+  de vue physique diffèrent.
+- Ce déplacement peut être réel ou imaginaire.
+- Envisager une vue à vol d'oiseau, en hélicoptère.  Prendre de la
+  distance par rapport à sa propre position dans une pièce ou un
+  expace extérieur.
+
+Dans certains cas, demander au client de se lever, de prendre du
+champ, puis de se regarder de loin assis sur son siège désormais
+vide.  
+
+Le coach se lève également et modélise aussi un comportement actif, en
+accompagnant les déplacements du client, voire en proposant
+tranquillement encore d'autres déplacements.
+
+**** Questions puissantes
+
+ - Quelle est votre perception de la personne assise là ?  Qui vient
+   d'exposer son jeu ?  Que pensez-vous qu'elle cache ?  Que veut-elle
+   vraiment, mais n'a jamais osé mentionné ?
+
+ - Quel conseil vraiment original donneriez-vous à cette personne, si
+   elle était votre meilleure amie ?
+
+ - Quelles ressources disponibles pensez-vous que cette personne
+   pourrait utiliser, si elle est vraiment créative ?
+
+ - Quel résultat potentiel positif évident, cette personne n'envisage t-elle même pas ?
+
+ - Si vous étiez le conseiller personnel de cette personne, que lui
+   diriez-vous qui pourrait vraiment l'aider à progresser dans sa
+   situation ?
+
+**** Questions de précision pratiques ou instrumentales
+
+Demander plus d'informations sur le client perçu de plus loin et
+accompagner le processus d'exploration plus en profondeur.
+
+Amener le client à devenir plus actif pour rechercher plus
+activement de nouvelles perspectives.
+
+ - Quel est votre livre préféré ?  Où se trouve t-il ?  Maintenant, si
+   vous consultez l'esprit de ce livre, que vous suggère t-il de faire
+   dans votre situation actuelle ?
+ - Votre chien est vraiment très attentif à tous vos mouvements.  Il
+   semble bien vous connaître.  Du point de vue de ce chien, et s'il
+   pouvait vous parler, que dirait-il que vous n'avez même pas
+   envisagé ?
+ - Si vous étiez une mouche au plafond et que vous observiez votre
+   situation en la trouvant jumoristique, qu'est-ce qui vous paraît
+   étonnamment drôle dans votre situation ?
+
+Le coach peut également demander au client de revenir à sa position
+initiale et de proposer des conclusions sur les perceptions ou les
+options découvertes à distance.
+
+**** Plan d'actions efficace
+
+ - Que voulez-vous mettre en oeuvre pour avancer dans votre
+   situation ?
+ - Pour résoudre votre problème ?
+ - Pour satisfaire votre enjeu.
+
+Questions centrées sur des mesures claires de la réussite et des délais.
+
+** Catégorie : Inventaire des Ressources
+# page 76
+
+Par définition, tous les clients possèdent une quantité incroyable de
+ressources personnelles et de qualités accessibles et inexploitées.
+
+Nous sommes donc tous intrinsèquement capables de réaliser beaucoup
+plus, voire beaucoup mieux que ce que nous faisons quotidiennement.
+
+*** 9. Expérience passée
+# page 77-79
+
+**** Catégorie
+Inventaire des Ressources du Client
+
+**** Quand utiliser cette question puissante
+
+En cas de stress intense, de confusion ou de désespoir, le client se
+sent parfois complètement désemparé voire paralysé, oubliant jusqu'à
+comment utiliser ses qualités et ressources personnelles.
+
+**** Description
+
+On part du principe que les personnes ont déjà rencontré des
+situations similaires.
+
+Voyage dans le passé pour permettre au client de se recentrer sur ses
+propres capacités et compétences connues, s'éloignant ainsi de leurs
+enjeux et problèmes actuels, et en fin de compte trouver des options
+et des solutions satisfaisantes.
+
+Faire l'inventaire des des forces ou des qualités qui ont été mises en
+oeuvre avec succès dans leur passé.
+
+Demander au client de chercher dans son expérience personnelle ou
+professionnelle passée les ressources qui ont été mobilisées pour
+faire face à l'enjeu en question.
+
+**** Questions puissantes
+
+ - Avez-vous déjà été confronté à une situation également difficile ou
+   à un défi relativement similaire à un moment dans votre passé ?
+
+Attention à ne pas rentrer dans le détail de cette situation passée.
+
+**** Questions de précision pratiques ou instrumentales
+
+ - Ressources personnelles déjà acquises : Le positif à répéter ::
+
+   + Merveilleux !  Comment avez-vous mis en oeuvre un résultat positif ?
+
+   + Génial ! Qu'avez-vous fait à cette époque qui, selon vous,
+     fonctionne bien dans ce type de situation
+
+   + Quoi d'autre ?
+
+   + Tu sais donc déjà ce que tu veux.  Quel serait ton monde d'après ?
+
+ - Situation passée qui a mal tourné : Le négatif à éviter ::
+
+   + Génial ! Qu'avez-vous appris que vous ne voulez surtout pas
+     répéter ?
+
+   + Comment pouvez-vous vous y prendre de manière totalement
+     différente ?
+
+   + Qu'avez-vous appris sur vous-même alors, que vous ne voulez pas
+     répéter aujourd'hui ?
+
+   + Tu as donc toute une liste de stratégies à éviter.
+
+**** Plan d'actions efficace
+
+Accompagner le client dans l'élaboration de son plan d'action pour
+qu'il décide de ce qu'il veut faire :
+ - comment ?
+ - où ?
+ - avec quel soutien ?
+ - Quand ?
+
+Ce plan d'action sert à résoudre sa situtation immédiate ou à avancer
+plus loin dans son défi actuel.
+
+*** 10. Ressources ou Qualités
+# page 79-82
+
+**** Catégorie
+Inventaire des Ressources du Client
+**** Quand utiliser cette question puissante
+
+Un client bloqué, généralement beaucoup trop concentré sur son enjeu
+ou son défi pour y voir clair.  
+
+Client enfermé dans une réflexion sans issue.
+
+**** Description
+
+Qualités et ressources personnelles du client communément reconnues
+ 1. interne : par lui-même
+ 2. socialement : par son entourage (ses amis, sa famille, ses collaborateurs)
+ 3. par le coach
+
+Faire un rapide inventaire des qualités personnelles aide le client
+à penser à autre chose, accessoirement en l'aidant à se construire un
+peu plus de confiance en lui-même.
+
+Objectif : 
+ - accompagner l'auto-validation du client, ou sa capacité
+   à reconnaitre sa propre valeur, ses aptitudes, ses qualités, ses
+   compétences, etc., de manière authentique.
+
+ - aider le client à prendre conscience de la façon dont il est perçu
+   comme puissant ou capable dans son environnement, et comment il
+   pourrait améliorer la façon dont il se présente dans divers
+   contextes.
+
+**** Questions puissantes
+Interne - Faire travailler le client sur sa propre reconnaissance de soi :
+
+ - Pouvez-vous citer vos quatre qualités principales, celles que vous
+   savez posséder.  Celles dont vous êtes le plus fier ?
+
+Socialement - Le client identifie la reconnaissance accordée par son environnement
+professionnel ou social ou familial :
+
+ - Quelles sont les cinq principales qualités que votre environnement
+   personnel et professionnel vous a toujours reconnues ?
+
+ - Quelles sont les quatre compétences principales que les personnes
+   que vous connaissez et avec lesquelles vous travaillez perçoivent
+   régulièrement en vous ?
+
+Accompagnement :
+ - Vous semblez très clair !
+ - Ouah !  J'adore ça !
+ - Tu y crois vraiment ?
+ - Convaincs-moi un peu mieux que ça !
+ - Super !  Je reconnais cela en toi aussi !
+
+**** Questions de précision pratiques ou instrumentales
+
+ - Alors, vous savez que vous avez vraiment tout ce qu'il faut pour
+   réussir !  Comment pouvez-vous utiliser chacune des qualités que
+   vous avez mentionnées pour les recentrer sur votre situation afin
+   de la résoudre de façon satisfaisante pour tous ?
+
+ - Formidable ! Comment pouvez-vous utiliser chacune de ces qualités /
+   compétences dans votre situation actuelle ?
+
+ - Comment tu peux t'assurer que ces qualités reconnues par d'autres marchent dans ton contexte.
+
+Ressources et qualités du client déjà perçues et validées par
+*l'expérience du coach* avec ce client :
+
+ - Je vous connais depuis un certain temps et je sais que chaque fois
+   que vous décidez vraiment de faire quelque chose, vous y parvenez.
+   Rien de ce qui se met en travers de votre chemin ne résiste
+   longtemps !  Vous le savez et je le sais... (étape 2)
+
+   Alors, comment pouvez-vous appliquer votre puissante détermination
+   habituelle dans cette situation, afin de la résoudre complètement
+   pour de bon ? (étape 3)
+
+Prendre le contre-pied, et faire changer le cadre de référence : Tout
+ce qui insignifiant, le prendre au sérieux.  Tout ce qui est
+dramatique, le prendre à la légère.
+
+ - Comment pouvez-vous utiliser votre légendaire...
+   + votre sens de l'humour généralement ironique et sec
+   + votre résilience obstinée de tête de noeud
+   + votre intuition féminine tellement séduisante (surtout si le
+     client s'identifie au comportement masculin standard) dans cette
+     situation.
+
+** Catégorie : Stratégies Logiques ⚡
+*** 11. Ordre & priorités
+⚡
+*** 12. Pour & Contre
+⚡
+*** 13. Soit - Soit
+⚡
+*** 14. Cartographie & Réseau
+# pages 88-92 ⚡
+**** Catégorie
+Stratégies Logiques
+**** Quand utiliser cette question puissante
+**** Description
+**** Questions puissantes
+ - Pouvez-vous citer les dix personnes les plus importantes ou les
+   plus influentes dans l'environnement plus large de votre
+   organisation, qui ont ou peuvent avoir une influence significative
+   sur votre réussite future ?
+
+ - Dans votre cercle familial et amical, quels sont les dix couples et
+   individus les plus bénéfiques à l'épanouissement de votre propre
+   couple ?
+
+Plus tard ou facultatif : 
+
+ - Qui sont les personnes que vous préférez garder à une distance plus
+   grande ou plus saine ?
+
+ - Comment pouvez-vous améliorer et développer radicalement les
+   partenariats opérationnels de votre entreprise avec cette personne,
+   afin d'en faire une relation gagnan-gagnant bien plus solide et
+   pérenne ?
+
+Puis-je vous suggérer ici, un travail de cartographie ?
+
+ - Dans votre équipe, qui est plus réactif, proactif, inactif ?
+
+  Le plus favorable, le plus résistant ?  
+
+  Le plus stable, celui qui prend des risques ?  
+
+  Le plus créatif, le plus prévisible ?
+
+  Le plus proche de vous, le plus distant ?
+
+  Le plus rationnel, le plus émotif ?
+
+  La personne la plus ancrée dans le passé, la plus ouverte sur l'avenir ?
+
+ - Pouvez-vous dessiner une carte qui positionne ces informations et
+   d'autres critères pertinents qui, selon vous, peuvent illustrer le
+   potentiel existant ou actif de votre équipe ?
+
+ - Comment toutes ces compétences très diverses peuvent-elles être
+   utilisées pour aider l'équipe à obtenir des résultats beaucoup plus
+   significatifs ?
+
+ - Comment pouvez-vous obtenir l'adhésion de tous pour concevoir un
+   plan de travail permettant à chacun de travailler avec principales
+   qualités des autres ?
+** Catégorie : Énergie Émotionnelle ⚡
+*** 15. Motivation Essentielle
+# page 97
+
+**** Catégorie
+Énergie Émotionnelle
+**** Quand utiliser cette question puissante
+
+Aider le client à recentrer toute son énergie essentielle ou sa
+passion sur les aspirations plus profondes sur lesquelles il souhaite
+se focaliser.
+
+**** Description
+
+Les objectifs de vie fondamentaux ou existentiels des clients sont
+trop souvent obscurcis par des préoccupations quotidiennes plus
+superficielles, des enjeux de carrière, des stratégies d'adaptation,
+la conformité aux attentes familiales, aux problèmes quotidiens, voire
+à d'autres formes de pression sociale et professionnelle
+
+**** Questions puissantes
+
+***** La question générique
+
+ - Que voulez-vous vraiment ?
+
+Poser la même question de différentes manières en accentuant, ou en répétant, l'un des
+mots : /vous/, /voulez/, /vraiment/
+
+***** Autres questions plus élaborées
+
+ - Quels sont vos espoirs les plus profonds pour votre avenir à long
+   terme ?
+ - Quelles sont vos motivations les plus fondamentales concernant
+   l'ensemble de votre vie ?
+ 
+***** Lien avec les /questions hypothétiques/
+
+ - Si vous preniez votre retraite aujourd'hui, vous avez 70 ans et
+   êtes vraiment satisfait de tout ce que vous avez accompli
+   personnellement et professionnellement, en tant que parent et
+   partenaire...
+
+   Pouvez-vous faire l'inventaire de tous les indicateurs de cette
+   extraordinaire réussite ?
+
+ - Imaginez que vous êtes le héros de la vie moderne que vous admirez
+   vraiment, à la fois en termes de façon d'être et en termes de
+   réalisations mesurables,
+
+   Pouvez-vous décrire qui vous êtes et ce que vous faites ?
+
+
+*** 16. Pouvoir intrinsèque des émotions
+# pages 97-100
+**** Catégorie
+Énergie Émotionnelle
+**** Quand utiliser cette question puissante
+Aider le client à reconfigurer ses perspectives pour envisager
+l'utilité vitale de certaines de ses réactions émotionnelles.
+
+Aider le client à utiliser chacune des ses émotions à son avantage,
+afin de s'assurer qu'il atteigne les résultats qu'il souhaite
+accomplir.
+
+Aider à accompagner le client avec ses émotions plutôt que malgré elles.
+
+**** Description
+
+Toutes les émotions peuvent être considérées comme intrinsèquement
+utiles.  Chacune sert à éveiller des stratégies de survie
+individuelles et collectives, et ces stratégies sont positives.
+
+**** Questions puissantes
+***** Colère
+ - Si votre *colère* ou votre rage était en fait une extraordinaire
+   centrale énergétique, le meilleur carburant pour rapidement faire
+   face à votre enjeu, comment pourriez-vous concentrer cette énergie
+   comme un rayon laser vrament efficace, afin de la diriger vers
+   l'obtention d'un exellent résultat, gagnant-gagnant pour toutes les
+   personnes concernées ?
+***** Peur
+
+ - Comment pouvez-vous utiliser votre *peur* comme un excellent
+   indicateur que vous devez
+   + être très prudent,
+   + rester pleinement en alerte à chaque étape de votre chemin,
+   + rester totalement vigilant et prudent
+   alors que vous progressez lentement vers votre objectif ?
+
+***** Tristesse
+
+- Comment pouvez-vous écouter votre *tristesse* comme un exellent
+  indicateur quand il est grand temps que vous preniez vraiment soin
+  de vous et de vos besoins personnels, alors que vous progressez vers
+  l'atteinte de vos résultats ?
+- Que devez-vous faire pour que prendre soin de vous devienne votre
+  priorité numéro un dans le cadre de ce projet ?
+
+***** Joie
+
+ - J'adore la façon dont vous procédez avec une *joie* si rayonnante !
+
+   Comment votre capacité à travailler avec une énergie positive aussi
+   intense peut-elle devenir un excellent aiment pour attirer et
+   obtenir le soutien utile des autres dans votre entourage afin de
+   mieux atteindre vos résultats ?
+
+*** 17. Préoccupations profondes
+⚡
+*** 18. Métaphores
+⚡
+*** 19. Questions poétiques
+⚡
+** Catégorie : Questions Exceptionnelles
+# pages 106-107
+
+*** 20. Stratégie des petits pas
+# pages 107-108
+**** Catégorie
+Questions exceptionnelles & Questions paradoxales
+
+**** Quand utiliser cette question puissante
+
+Cas de certains clients paralysés par leur peur, qui perçoivent leurs
+objectifs et leurs enjeux comme insurmontables ou beaucoup trop
+énormes pour être affrontés.
+
+ => Découper le problème en morceaux beaucoup plus petits et
+ abordables.
+
+Lorsqu'une peur panique limite la capacité d'action d'un client.
+
+ => plus facile d'envisager de l'aider à sortir de son inaction en
+ amorçant de très petites actions envisageables maintenant
+
+**** Description
+
+La peur doit être respectée comme un indicateur de dangers possibles.
+
+Pour le coach, l'atteinte des objectifs ultimes du client est remis
+à plus tard, devenant secondaire par rapport au fait d'accompagner le
+client à tester très prudemment la réalités de ce qu'il perçoit comme
+des eaux dangereuses
+
+Ne pas utiliser cette stratégie comme un rituel pour tous les clients.
+De nombreux clients sont en fait tout à fait prêt à aller beaucoup
+plus rapidement qu'un tout petit pas à la fois.
+
+**** Questions puissantes
+
+ - Quel peut être votre premier pas, le plus petit possible, le plus
+   insignifiant, dans la bonne direction ?
+ - Quelle est la première action simple, facile, presque imperceptible
+   qui peut vous mettre sur la bonne voie ?
+ - Tout de suite, si vous découpez votre enjeu en dix parties égales,
+   quelle est la première partie évidente et facilement exploitable
+   que vous pouvez envisager de mettre en oeuvre sans attendre ?
+ - Quel est le premier, plus petit changement possible et
+   immédiatement pour vous, qui pourrait ne faire que vous préparer
+   à faire face au reste de votre enjeu ?
+
+*** 21. Scénario du pire, scénario catastrophe
+# pages 108-111
+
+**** Catégorie
+Questions exceptionnelles & Questions paradoxales
+
+**** Quand utiliser cette question puissante
+
+ - Lorsque le client fait l'inventaire de ses options négatives, pour
+   découvrir accidentellement de nouvelles stratégies positives ou
+   constructives.
+
+ - Client totalement débordé.
+
+ - Client avec une conscience apparemment confirmée que le pire
+   scénario possible est déjà en cours ou à portée de main et que les
+   choses ne peuvent pas empirer.  Elles ne peuvent que s'améliorer.
+
+ - Lorsqu'un client vient de décrire des moments vraiment difficiles
+   et un état d'esprit presque déprimant
+
+ - Loi des séries : quand tout semble aller mal.
+
+ - Quand le client a touché le fond.
+
+ - Situation intenable où rien ne peut empirer
+
+**** Description
+
+Demander au client d'envisager ce qui se passerait si tout allait
+vraiment mal.
+
+Attention.  À manier avec précaution.  Peut renforcer la peur des
+démons, provoquer davantage de paralysie et de désespoir.
+
+Sert à prendre conscience de stratégies d'autodestruction ou de
+contextes très difficiles, conséquences d'une écrasante malchance
+environnementale.
+
+Accent mis sur la non-réussite et l'échec.  À éviter généralement.
+Faire plutôt travailler immédiatement sur les stratégies positives, de
+réussite et orientées vers l'avenir.
+
+**** Questions puissantes
+
+ - Magnifique !  Tout cela semble très clair !  Vous semblez avoir le
+   dessus sur les choses.  Alors, pouvez-vous maintenant décrire ce
+   qui pourrait vraiment mal tourner dans votre situation ?
+
+ - Quel pourrait être votre scénario le plus catastrophique ?
+
+ - Si la situation devenait aussi dramatique que possible, à quoi
+   ressemblerait-elle ?
+
+ - Si vous vouliez vraiment échouer à chaque étape, que reste t-il
+   à faire ?
+
+ - Si votre objectif était vraiment d'échouer, comment vous
+   y prendriez-vous pour provoquer toute votre équipe à se retourner
+   contre vous ?
+
+Lorsque des difficultés émergent dans la relation Coach-Client, mais
+que la relation de coaching est véritablement solide (avoir une attitude de
+soutien et de protection du client) :
+
+ - Que pouvez-vous faire différemment, là tout de suite, si vous ne
+   voulez vraiment pas résoudre votre enjeu ?
+
+ - Supposons que vous ayez dépensé toute votre énergie pour dresser une
+   liste d'options inopérantes, qu'avez-vous laissé de côté jusqu'à
+   présent ?
+
+ - Si vous vouliez vraiment prouver que rien ne pouvait être fait pour
+   avancer dans votre situation, comment pourriez-vous réussir
+   à perdre votre temps pendant cette session de coaching ?
+
+*** 22. Maillon faible
+# page 111-112
+**** Catégorie
+Questions Exceptionnelles
+**** Quand utiliser cette question puissante
+ - Lorsque le client a presque terminé une séquence de coaching et
+   a élaboré ce qui semble être un plan d'action solide
+
+ - Aider un client à revoir rapidement son plan d'action afin de
+   vérifier ses fragilités éventuelles, puis d'intégrer des options de
+   sécurité supplémentaires.
+
+**** Description
+
+ - ouvrir la voie à une vigilance supplémentaire.
+ - recherche du maillon faible
+
+**** Questions puissantes
+ - Magnifique !  Votre programme semble excellent !  Si une personne,
+   une équipe, ou une partie de ce programme devait avoir besoin d'un
+   peu plus d'attention que les autres, juste pour s'assurer qu'il n'y
+   aura pas de failles, qui ou où cela pourrait-il être ?
+
+ - Félicitations pour votre excellent travail !  Maintenant, si votre
+   proposition échouait à cause d'un détail apparemment mineur qui
+   n'a pas fonctionné, sur quel élément vous pourriez vous concentrer
+   davantage, juste pour être doublement sûr ?
+
+ - Excellent travail !  Maintenant, si quelqu'un voulait bloquer ce
+   projet, quelle serait sa phase la plus fragile, celle où il  vous
+   faut être vraiment doublement attentif afin de vous assurer que
+   tout reste sur la bonne voie ?
+
+** Catégorie : Stratégies Paradoxales
+# page 113
+Les stratégies de questionnement paradoxales sont particulièrement
+utiles pour servir avec des clients qui manifestent une pensée plutôt
+linéaire, binaire, logique ou cartésienne.
+
+*** 23. Inversion des affirmations
+# page 113-115
+**** Catégorie
+Stratégies Paradoxales : Inversion des affirmations
+**** Quand utiliser cette question puissante
+Cf. Catégorie "[[Catégorie : Stratégies Paradoxales][Stratégies Paradoxales]]".
+
+**** Description
+ - Tous nos problèmes apparents présentent en fait des opportunités
+   tout aussi importantes.
+
+ - Toutes les situations de crises apparentes servent à introduire un
+   changement nécessaire et sain.
+
+ - Tous les partenaires apparemment difficiles dans la vie d'une
+   personne sont en fait là pour offrir des opportunités de croissance
+   ou d'apprentissage.
+
+ - Tous les défis qui semblent créer un désordre, voire une
+   perturbation dans une vie bien planifiée, sont en fait le réslutat
+   d'une force de vie très positive qui nous invite à évoluer vers
+   notre prochain stade de développement.
+
+**** Questions puissantes
+
+ - Que pouvez-vous faire si ce problème apparemment difficile était en
+   réalité une occasion pour vous de commencer à enfin envisager des
+   changements très importants dans votre vie ?
+
+ - Comment réagir face à cette situation apparemment négative si elle
+   présentait des options de solutions vraiment innovantes à un grand
+   nombre de vos difficultés ?
+
+ - Que devez-vous commencer à changer en vous pour accueilir cet
+   événement apparemment perturbateur de la manière positive qu'il
+   mérite vraiment ?
+
+ - Si ce problème était réellement une opportunité pour vous de
+   grandir, que commenceriez-vous à changer dans vos habitudes
+   comportementales ?
+
+ - En quoi cette personne à problèmes vous offre t-elle l'occasion
+   d'apprendre quelque chose de très important sur vous-même relative
+   à vos limites ?
+
+ - En quoi le défaut apparemment dérangeant de cette personne est-il
+   aussi une qualité essentielle, qui peut assurer le succès futur de
+   votre équipe ?
+
+ - Comment cet échec apparent peut-il être  une bénédicction, ou un
+   tremplin pour la suite ?
+
+ - Pouvez-vous énumérer tous les grands avantages à être dans cette
+   situation difficile ?
+
+ - Pouvez-vous faire l'inventaire des qualités évidentes de cette
+   personne à problème ?
+
+*** 24. Questions paradoxales
+# page 115-117
+**** Catégorie
+Stratégies Paradoxales : Inversion des affirmations
+**** Quand utiliser cette question puissante
+Cf. Catégorie "[[Catégorie : Stratégies Paradoxales][Stratégies Paradoxales]]".
+**** Description
+Objectif : interrompre le processus de pensée excessivemnt linéaire ou
+logique du client, d'élargir le terrain de jeu, voire de changer la
+donne.
+
+Ces questions provoquent une perturbation mentale et envoient le client
+sur des orbites différentes, plus étranges, loin des schémas de pensée
+et des certitudes manifestement cohérents, traditionnels, linéaires ou
+cartésiens.
+
+Il s'agit de créer de l'incertitude.
+
+**** Questions puissantes
+
+ - Dans toutes vos options apparemment différentes, quel est le
+   dénominateur commun évident que vous semblez vouloir garder, à tout
+   prix ?
+
+Ensuite
+
+ - Qu'est-ce qui peut être l'opposé complet de toutes vos options
+   apparemment mutuellement exclusives ?
+
+ - Quel pourrait être un autre dénominateur commun à toutes vos
+   options ?
+
+ - Si toutes vos alternatives apparemment différentes allaient toutes
+   dans la même direction, ou si elles étaient toutes très similaire
+   par essence, quelle finalité totalement différente pourriez-vous
+   envisager ?
+
+*** 25. Prescription des symptômes apparents
+# page 117-120
+**** Catégorie
+Stratégies Paradoxales : Inversion des affirmations
+**** Quand utiliser cette question puissante
+Lorsque le client semble passif, lent ou en manque d'énergie vitale.
+
+Si le coach souhaite assumer la responsabilité de compenser cette
+dynamique apparente cela va accroître la passivité ou la résistance du
+client.
+
+Dans ce cas, proposer la passivité et l'inaction à un client
+apparemment lent peut aussi être une option paradoxale efficace.
+
+Stratégie très utile lorsque le coach ressent l'envie de porter la
+responsabilité d'un client et recherche un "bon résultat de coaching
+performant".
+
+**** Description
+
+Ces stratégies de questionnement visent à ajouter subtilement au
+comportement apparemment inefficace du client.
+
+En faisant exactement le contraire de ce qui serait attendu, les
+coachs respectent un peu plus la responsabilité du client.
+
+Prise de conscience attendue du client : "mais c'est déjà ce que je
+fais".
+
+Cela peut conduire le client à prendre plus de responsabilité dans ce
+qu'il est en train de faire, ou à s'arrêter et à décider qu'il doit en
+fait envisager d'autres options.
+
+Dans ce cas, le coach peut simplement répondre : "Oui... Alors ?".
+
+Cela oeuvre dans le sens de permissions pour le client d'être qui il
+est.
+
+**** Questions puissantes
+
+ - Client *lent* ::
+   + Dans votre situation, comment pouvez-vous envisager de progresser
+     le plus lentement possible, afin de vraiment manifester un manque
+     d'intérêt pour en trouver une issue ?
+   + Que pouvez-vous faire s'il était vraiment urgent pour vous de ne
+     rien faire et d'attendre que la situation se résolve par
+     elle-même ?
+   + Supposons que vous ne changiez rien pendant les cinq prochaines
+     années, comment croyez-vous que la situation va évoluer toute
+     seule ?
+
+ - Client *très stressé* ::
+   + Comment vous comporteriez-vous si vous étiez vraiment stressé
+     dans tout ce que vous faires, et que vous le montriez à tous vos
+     partenaires ?
+
+ - Client *manifestement en colère* ::
+   + Avez-vous envisagé de vraiment vous laisser envahir par une
+     irritation débordante, et d'exprimer cette colère sans vous
+     retenir ?
+
+ - Client *rebelle* :: 
+   + Comment pouvez-vous envisager ce qui serait un réaction
+     totalement non conforme, voire politiquement incorrecte dans
+     votre situation ?
+
+ - Client qui hésite à partager des détails intimes concernant sa situation ou son enjeu ::
+
+   + Vous n'avez pas besoin de partager des détails avec moi.  Je n'ai
+     pas besoin de les connaître.
+
+*** 26. Éliminer l'enjeu apparent
+# page 120-121
+**** Catégorie
+Stratégies Paradoxales : Inversion des affirmations
+**** Quand utiliser cette question puissante
+
+Aider les clients à se concentrer sur des objectifs plus fondamentaux
+ou des motivations plus profondes, plutôt que de perdre du temps sur
+des enjeux plus superficiels ou temporaires
+
+**** Description
+
+Sert à éliminer le court terme insatisfaisant pour accompagner le
+client à considérer ce qui pourrait lui être plus essentiel.
+
+Si le client n'avait plus du tout d'objectifs immédiats, de problèmes
+pressants ou d'enjeux imposés par son environnement externe, servant
+à l'occuper à plein temps jour après jour, quelle est l'ambition
+beaucoup plus profonde et bien plus durable qu'il veut réaliser ?
+
+**** Questions puissantes
+ - Si cette situation disparaissait complètement de votre vie, comme
+   par magie, vers quel projet/ambition/aventure épanouissante
+   mettriez-vous votre énergie vitale ?
+
+ - Si ce problème s'évaporait dans l'air, que voudriez-vous vraiment
+   faire du reste de votre vie ?
+
+ - À supposer que vous vous trouvez dans un an et que toute cette
+   aventure trépidante est loin derrière vous, totalement oubliée.
+   Vous pouvez enfin vous tourner vers ce qui est réellement important
+   pour vous, vers votre véritable finalité ; comment est-ce que vous
+   la formulez ?
+
+** Catégorie : Questions de Coaching Systémique ⚡
+*** 27. Questions systémiques
+⚡
+*** 28. Triangulation
+⚡
+*** 29. Autres triangulations
+⚡
+*** 30. Relation Coach-Client
+⚡
+*** 31. Environnement partagé
+⚡
+** En vrac ⚡
+*** Mobilité spatio-temporelle : L'Espace et le Temps
+
+Partie A
+
+ - Qui est séparé ?
+ - Qui est en plein milieu ?
+ - Et toi, ta place au milieu de tout ça ?
+ - Est-ce que chacun est à sa place.
+
+Partie B
+
+ - Qu'est ce que tu peux faire demain pour changer ?
+ - Quel serait un meilleur positionnement ?
+ - Qui est contre qui ?
+
+**** Description
+Helicopter view. 
+Comme une papillon au plafond.
+
+Faire une exploration topologique
+
+* COMMENT Local Variables
+
+# Local Variables:
+# coding: utf-8
+# eval: (add-hook (make-local-variable 'after-save-hook) 'bh:ensure-in-vc-or-check-in t)
+# End:
